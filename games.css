@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
+
+html{
+    background-color: moccasin;
+}
+
+header{
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    background-color: maroon;
+    color: orange;
+}
+.container{
+     display: grid;
+  grid-template-columns: auto auto;
+  background-color: moccasin;
+  padding: 10px;
+    border: 10px solid gray;
+
+}
+.Home{
+    background-color: maroon;
+    text-align: center;
+    padding: 55px;
+    font-size: 30px;
+    font-family: 'Varela Round', sans-serif;
+}
+a{
+    color: #1499A6; 
+}
+
+a:visited{
+    color: orange;
+}
+
+.NMB, .spinblade, .itch, .wine{
+    font-family: 'Orbitron', sans-serif;
+    border: 10px solid #10272C;
+    padding: 20px 20px;
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+    display: block;
+  background-color: maroon;
+}
+
+p{
+  font-family: 'Varela Round', sans-serif; 
+    color: moccasin;
+}
+body{
+    text-align-last: center;
+    font-size: 25px;
+    background-color: moccasin;
+ width: 1000px;
+ margin: 0 auto;
+ padding: 20px 20px 20px 20px;
+ 
+}
+a{
+    color: #1499A6; 
+}
+
+a:visited{
+    color: orange;
+}
+.itLink{
+    text-align: center;
+}
